@@ -6,4 +6,7 @@ public class HelloWorld{
   public void hello() {
 
   }
+
+  public void test_branch() {
+  }
 }
